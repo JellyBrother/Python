@@ -1,0 +1,19 @@
+# 下载地址
+sdk：https://www.python.org/downloads/
+pycharm：https://www.jetbrains.com/pycharm/
+
+# 导入第三方库
+可以鼠标，停留在提示地方，然后点击安装就行，不需要命令安装。
+import pyqrcode  #导入二维码
+pip install pyqrcode 
+pip install pypng
+
+import pymysql
+pip install pymysql
+
+import requests #导入requests库
+pip install requests
+
+
+
+

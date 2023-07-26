@@ -1,2 +1,2 @@
-# Palmhouse
-Inovance Palmhouse for Android
+# Python
+练习python项目。
